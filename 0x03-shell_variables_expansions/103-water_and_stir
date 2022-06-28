@@ -1,2 +1,2 @@
 #!/bin/bash
-printf %o $(echo $WATER | tr 'water') + $(echo $STIR | tr 'stir.')
+echo $(echo $WATER | tr 'water') + $(echo $STIR | tr 'stir.')
