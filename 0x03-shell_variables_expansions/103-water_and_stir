@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $(printf %o $(echo $WATER | tr 'water') + $(echo $STIR | tr 'stir.'))
+
+printf '%o\n' $(( 5#$( echo $WATER | tr water 01234) + 5#$( echo $STIR | tr stir. 01234 ) )
