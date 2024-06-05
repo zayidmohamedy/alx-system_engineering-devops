@@ -33,7 +33,7 @@ All of the following folders are projects done during the studies:
 | [`Attack Is The Best Defense`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/attack_is_the_best_defense) | ..  |
 
 ## Author :
-* **[zayidmohamedy](https://twitter.com/zayidmohamedy)** <[Aysuarex](https://github.com/Aysuarex)>
+* **[zayidmohamedy](https://twitter.com/zayidmohamedy)** <[zayidmohamedy](https://github.com/zayidmohamedy)>
 
 ## Acknowledgements :pray:
 
